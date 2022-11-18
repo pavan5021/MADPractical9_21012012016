@@ -1,5 +1,7 @@
 # MADPractical9_21012012016
 
+AIM: What is Difference between ListView and RecyclerView? Create SMS Android Application that can receive SMS by BroadcastReceiver and Interface, Send SMS and read & display all SMS of Inbox by using RecyclerView according to below instructions.
+
 ![Screenshot 2022-11-15 010938](https://user-images.githubusercontent.com/110770530/202782282-82ae2667-6ca0-4288-ab9b-67f15e6a4b9d.jpg)
 
 ![Screenshot 2022-11-15 011106](https://user-images.githubusercontent.com/110770530/202782300-36f0e1d5-298e-4be7-8980-84f9f01fb52a.jpg)
